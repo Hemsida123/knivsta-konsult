@@ -1,0 +1,21 @@
+KNIVSTA KONSULT – GITHUB PAGES
+
+1. Packa upp ZIP-filen.
+2. Ladda upp allt innehåll till ditt GitHub-repository.
+   index.html, styles.css, script.js, assets och 17 ska ligga direkt
+   i repositoryts rot – inte inuti en extra mapp.
+3. I GitHub: Settings > Pages > Deploy from a branch.
+   Välj din branch (vanligen main) och / (root), och spara.
+
+Alla bilder, typsnitt och sex sidor ingår. Behåll mappstrukturen.
+Ingen installation eller byggprocess behövs. Enbart index.html räcker
+inte eftersom bilder, stilmall, meny och undersidor är separata filer.
+
+Kontaktknappar öppnar besökarens e-postprogram. Inget formulär eller
+serverprogram behöver kopplas in.
+
+SEO-adresserna pekar på kundens originaldomän www.knivstakonsult.se.
+Detta är avsiktligt för en designkopia på GitHub Pages. Ändra dessa
+om en annan adress ska bli den permanenta, indexerade hemsidan.
+
+Typsnittslicensen finns i licenses/Jost-OFL.txt.
